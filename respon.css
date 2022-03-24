@@ -102,7 +102,7 @@ h4 {
 
     .service-content .service {
       width: 100%;
-      margin: 0 10px 0 10px;
+      margin: 10px;
     }
 
     .service h3 {
@@ -125,7 +125,7 @@ h4 {
   .footer .footer-text,
   .footer-list {
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
   .footer .footer-text {
     text-align: center;
